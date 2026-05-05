@@ -15,8 +15,16 @@ Online store for computer components — coursework project.
 - HTML, CSS, Vanilla JavaScript
 - PHP Sessions, bcrypt
 
-## Setup
-1. Clone the repository
-2. Import database from `baza.sql`
-3. Fill in your credentials in `includes/db.php`
-4. Run on a PHP server (e.g. XAMPP)
+## Screenshots
+
+### Home Page
+<img width="2560" height="1290" alt="image" src="https://github.com/user-attachments/assets/6a30a1b7-d398-4ba0-9da0-e4d0dfd5c861" />
+
+### Products
+![Products](screenshots/products.png)
+
+### Cart
+![Cart](screenshots/cart.png)
+
+### Admin Panel
+![Admin](screenshots/admin.png)

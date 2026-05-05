@@ -1,6 +1,6 @@
 # TechShop 🛒
 
-Online store for computer components — coursework project.
+Online store for computer components - coursework project.
 
 ## Features
 - Product browsing with category filtering
